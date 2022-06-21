@@ -1,5 +1,4 @@
 # O-mnie
-krótki opis
 English version: 👋 Hi, I’m Adrian Pilipiuk (Xetern my nickname) I’m 18 years old,I’m live in Poland in small town called Okonek. I’m interested in gaming and programming. I get along well in groups and I try to learn as much as possible and be involved in what I do. I believe that my English is at a fairly good level, but I am trying to improve it more and more I’m starting to learn some programming and its very interesting job for me. I’m currently learning html5 ,css, php and want to start learning python. I’m looking to find a job when i can improve my skills in programming and make some money for car and better computer. 📫 How to reach me:
 
 My facebook:https://www.facebook.com/adrian.pilipiuk.56
