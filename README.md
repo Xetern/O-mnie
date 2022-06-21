@@ -1,0 +1,2 @@
+# O-mnie
+krótki opis
